@@ -1,1 +1,1 @@
-# Project-7-Arima-forecasting-of-CO2-using-Grid-Search
+This repository uses ARIMA models to forecast CO2. The data that is used in this notebook is described at the following link: https://www.statsmodels.org/devel/datasets/generated/co2.html Grid search 
